@@ -1,2 +1,2 @@
 # Codeforces
-Collection of problems for fun
+collection of problems for fun
